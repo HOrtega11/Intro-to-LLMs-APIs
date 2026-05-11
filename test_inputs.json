@@ -1,0 +1,116 @@
+{
+  "sentiment_analysis": [
+    {
+      "id": 0,
+      "text": "Arguably this is a very good \"sequel\", better than the first live action film 101 Dalmatians. It has good dogs, good actors, good jokes and all right slapstick! <br /><br />Cruella DeVil, who has had some rather major therapy, is now a lover of dogs and very kind to them. Many, including Chloe Simon, owner of one of the dogs that Cruella once tried to kill, do not believe this. Others, like Kevin Shepherd (owner of 2nd Chance Dog Shelter) believe that she has changed. <br /><br />Meanwhile, Dipstick, with his mate, have given birth to three cute dalmatian puppies! Little Dipper, Domino and Oddball...<br /><br />Starring Eric Idle as Waddlesworth (the hilarious macaw), Glenn Close as Cruella herself and Gerard Depardieu as Le Pelt (another baddie, the name should give a clue), this is a good family film with excitement and lots more!! One downfall of this film is that is has a lot of painful slapstick, but not quite as excessive as the last film. This is also funnier than the last film.<br /><br />Enjoy \"102 Dalmatians\"! :-)",
+      "true_label": "positive"
+    },
+    {
+      "id": 1,
+      "text": "It's a good thing I didn't watch this while i was pregnant.I definitely would have cried my eyes out and/or vomit. It was Kind of gruesome mainly disturbing. I personally thought the baby was adorable in its own twisted little way.However as a mom I cringed when Beth stabbed herself in the stomach and when Virgina aborted the child during her 3rd trimester with rusty utensils no less.Also,as an animal lover i almost cried when she scratched the cat to a bloody pulp.However,As creepy and sinister as the baby was I was rooting for it to live.And as twisted as the movie was I am extremely intrigued to see the sequel...... ......... ....... ......... ......... ....... ...... .....",
+      "true_label": "negative"
+    },
+    {
+      "id": 2,
+      "text": "This has to be the worst movie I have seen. Madsen fans don't be drawn into this like I was. He is only in it for a maximum of five minutes. This movie is so bad that the only reason why you would watch it is if all the rest of the movies on earth as well as t.v. had been destroyed.",
+      "true_label": "negative"
+    },
+    {
+      "id": 3,
+      "text": "\"Scarface\" has a major cult following even now, 22 years after its release.<br /><br />It has also been widely criticized as being very tacky, unrefined, over-the-top and all bloated up! These are people who compare Scarface to The Godfather movies. It is true that on the technical front, (cinematography, screenplay, direction, etc.) Scarface is way behind 'The Godfather'.<br /><br />But it is also true, that what Scarface has and some other gangster movies lack, is the rawness, the sheer crude approach of the gangsters. The Latino gangsters in this movie look much more menacing and real than any of the polished Italian or Irish gangsters from other gangster classics like 'The Godfather' or 'Goodfellas'. This is one of the major winning points of Scarface and I strongly believe that this fact has been written off as \"tackiness\" by most critics! I have seen the original 1932 Scarface, and I must say that both these movies are way too different from each other and should be seen as two different movies instead of praising the original over the \"remake\"! <br /><br />Al Pacino has been criticized to be over-the-top and loud in this movie. But how about considering that that is precisely the way the film-makers wanted Tony Montana's character to be! He is this angry young man who takes hasty decisions and throws fits of tantrum every other minute! He is not the calm Michael Corleone here. He is Tony Montana, a very tacky, uneducated individual who doesn't really think much and get",
+      "true_label": "positive"
+    },
+    {
+      "id": 4,
+      "text": "Being born in the 1960's I grew up watching the TV \"Movies of the Week\" in the early 70's and loved the creepy movies that were routinely shown including \"Crowhaven Farm\", \"Bad Ronald\", \"Satan's School for Girls\", \"Kolchak the Night Stalker\", etc, but this one is just plain dumb.This is obviously the writer's trying to capitalize on the horrific Manson murders from a few years earlier. The movie stars Dennis Weaver of \"McCloud\" and \"Duel\" fame as a father who takes his family camping on a beach. The family encounters some hippies who for some reason decide to terrorize the family. The reason for this is never explained, and Weaver's pacifistic stance is hard to swallow. For God's sake, call the police, beat the hell of them or something, just don't sit there and whine about it. The acting is pretty lame, the story unbelievable, etc. Susan Dey looks cute in a bikini but that's about it. Ignore this if it ever airs on TV.",
+      "true_label": "negative"
+    },
+    {
+      "id": 5,
+      "text": "As I sat in front of the TV watching this movie, I thought, \"Oh, what Alfred Hitchcock, or even Brian DePalma, could have done with this!\" Chances are, you will too. It does start out intrigueing. A British park ranger living in Los Angeles (Collin Firth) marries a pretty, demure brunette woman (Lisa Zane) whom he met in a park only a short time ago. Then, one day she dissappears. The police are unable to find any documentation that she ever existed, and Firth conducts his own search. So far, so good. Just as he's about to give up, he turns to his womanizing best friend (Billy Zane), and they stumble onto her former life in L.A.'s sordid underground of drugs, nightclubs, and ametuer filmmaking, and then to her history of mental instability. At that point, Firth's life is in danger, and the film falls apart. None of the characters from Lisa Zane's past are remotely interesting. The film moves slowly, and there's very little action. There is a subplot regarding missing drug money, but it's just a throwaway. No chases, no cliffhanging sequences, and no suspense. Just some dull beatings and a lot of chat by boring characters. One thing worth noting, Lisa Zane and Billy Zane are brother and sister, but they never appear in a scene together. By the end of the movie, you're torn between wondering what might have been and trying to stay awake.",
+      "true_label": "negative"
+    },
+    {
+      "id": 6,
+      "text": "I think they really let the quality of the DVD production get away from them. I rented this DVD from 2 movie stores and the second time I finally got it to play on the 3rd DVD player I tried.<br /><br />Anyone else have this issue? It's really hard to give the film an un-biased review after going through such a hassle to play it. For one, I've never seen a Finnish horror film before so I was sort of bummed that the movie was done in English. Also since it's never made clear what is wrong with Sarah, she just came off as retarded and therefore I really just hoped someone would shoot her in the face and make all the horrific happenings go away.",
+      "true_label": "negative"
+    },
+    {
+      "id": 7,
+      "text": "\"Piece is Cake\" is defeatist, revisionist history of the worst kind, whose only point is to unfairly savage the reputation of the (admittedly fictional) pilots it portrays. It left a remarkably bad taste in my mouth.<br /><br />In the March 1989 \"Aeroplane Monthly\", Roland Beamont wrote a stinging condemnation of the way that RAF Fighter Command was portrayed in the TV mini-series. A few of his comments are worth repeating:<br /><br />\"There was no sense of defeatism at any time in any of the squadrons that I saw in action, and a total absence of the loutishness portrayed in 'Piece of Cake'. It would not have been tolerated for a moment... ...The prevailing atmosphere was more akin to that in a good rugby club, though with more discipline. Nor was there any sense of 'death or glory'. RAF training had insisted that we were there to defend this country, and now we were required to do it - no more and no less.<br /><br />\"There was no discussion of 'bravery' or 'cowardice'. People either had guts or they did not - but mostly they did. But we knew fear, recognised it in ourselves and in each other, did our damnedness to control it, and then got on with the job...<br /><br />\"...I could feel no 'glory', but there was a sense of greatness, and none of this bore the slightest resemblance to 'Piece of Cake'.\"<br /><br />Beamont was, in his own words, \"a fighter pilot who, unlike the author and producer of the recent TV series, was there at the time\".<br /><br />Beamont served with 87",
+      "true_label": "negative"
+    },
+    {
+      "id": 8,
+      "text": "Bill Crain's rarer than rare 'slasher' movie certainly doesn't follow the standard stalk and slash guidelines that have become so essential of its counterparts. The bogeyman this time around uses grenades and small arms as well as an awesome array of melee weapons; - a sin that's virtually unacceptable in most post-Halloween genre pieces. But there's still just enough familiarity to keep slasher buffs from checking the rule book and the plot never strays too far from the path that you've grown to expect. Just as Wally Koz's surprisingly decent 555 was seemingly put together with help from various members of his family, Mirage seems to have been a joint production from relatives of the director. Looking through the credits I noticed numerous 'Crains' listed in key positions throughout the construction of the feature. But despite fairly good distribution across the globe, the movie failed to make an impression either side of the Atlantic and now it has become pretty much a phantom of the VHS market. Nevertheless this only made it appeal to me even more and so I strained my resources to track a copy down <br /><br />It all takes place in the middle of the dessert, which as I'm sure you'll agree is hardly the most exciting location. With that said though, I must admit that there's certainly going to be no chance of any nosey John Q Laws turning up unexpectedly. Four undeniably beautiful youngsters head out into the sand for a night of debauchery and frolics that always seems to ",
+      "true_label": "positive"
+    },
+    {
+      "id": 9,
+      "text": "I'm going to spend as much time on this review as the writers did on the script. This is easily THE WORST sequel EVER made.<br /><br />They KILLED Navin Johnson. Not only was Mark Blankfield's performance GOD-AWFUL, so was everyone elses!! The physical comedy was forced, flat and predictable. The script seemed to have been written by mongoloid monkeys using the pen names Ziggy Steinberg and Rocco Urbisci. How the producers managed to squeeze out such vile cinematic excrement is beyond me. They even managed to make veteran actor Ray Walston look like a talent-less buffoon. Director Michael Schultz should be ashamed of himself.<br /><br />I want the 96 minutes of my life I spent watching this befouled memory of a brilliant comedy back so I can try and convict everyone involved for this cinematic atrocity.",
+      "true_label": "negative"
+    }
+  ],
+  "question_answering": [
+    {
+      "id": 0,
+      "context": "Spielberg's next film, Schindler's List, was based on the true story of Oskar Schindler, a man who risked his life to save 1,100 Jews from the Holocaust. Schindler's List earned Spielberg his first Academy Award for Best Director (it also won Best Picture). With the film a huge success at the box office, Spielberg used the profits to set up the Shoah Foundation, a non-profit organization that archives filmed testimony of Holocaust survivors. In 1997, the American Film Institute listed it among the 10 Greatest American Films ever Made (#9) which moved up to (#8) when the list was remade in 2007.",
+      "question": "Whose life was 'Schindler's List' based on?",
+      "true_answer": "Oskar Schindler"
+    },
+    {
+      "id": 1,
+      "context": "In 1985, Schwarzenegger appeared in \"Stop the Madness\", an anti-drug music video sponsored by the Reagan administration. He first came to wide public notice as a Republican during the 1988 presidential election, accompanying then-Vice President George H.W. Bush at a campaign rally.",
+      "question": "In what presidential election year did Schwarzenegger make a name for himself as a prominent Republican?",
+      "true_answer": "1988"
+    },
+    {
+      "id": 2,
+      "context": "In boundary scan testing, test circuits integrated into various ICs on the board form temporary connections between the PCB traces to test that the ICs are mounted correctly. Boundary scan testing requires that all the ICs to be tested use a standard test configuration procedure, the most common one being the Joint Test Action Group (JTAG) standard. The JTAG test architecture provides a means to test interconnects between integrated circuits on a board without using physical test probes. JTAG tool vendors provide various types of stimulus and sophisticated algorithms, not only to detect the failing nets, but also to isolate the faults to specific nets, devices, and pins.",
+      "question": "What component of the printed circuit board is appraised with boundary scan testing?",
+      "true_answer": "ICs"
+    },
+    {
+      "id": 3,
+      "context": "From 1988 to 1997, the BBC and Sky Sports had coverage of the FA Cup, the BBC had highlights on Match of the Day and usually one match per round while Sky had the same deal. From 1997 to 2001, ITV and Sky shared live coverage with both having two matches per round and BBC continuing with highlights on Match of the Day. From 2002 to 2008, BBC and Sky again shared coverage with BBC having two or three matches per round and Sky having one or two. From 2008–09 to 2013–14, FA Cup matches are shown live by ITV across England and Wales, with UTV broadcasting to Northern Ireland but STV refusing to show them. ITV shows 16 FA Cup games per season, including the first pick of live matches from each of the first to sixth rounds of the competition, plus one semi-final exclusively live. The final is also shown live on ITV. Under the same 2008 contract, Setanta Sports showed three games and one replay in each round from round three to five, two quarter-finals, one semi-final and the final. The channel also broadcast ITV's matches exclusively to Scotland, after the ITV franchise holder in Scotland, STV, decided not to broadcast FA Cup games. Setanta entered administration in June 2009 and as a result the FA terminated Setanta's deal to broadcast FA-sanctioned competitions and England internationals. As a result of Setanta going out of business ITV showed the competition exclusively in the 2009–10 season with between three and four matches per round, all quarter finals, semi-finals and final live as the FA could not find a pay TV broadcaster in time. ESPN bought the competition for the 2010–11 to 2012–13 season and during this time Rebecca Lowe became the first woman to host the FA Cup Final in the UK.",
+      "question": "Who had FA cup coverage from 1988-1997?",
+      "true_answer": "From 1988 to 1997, the BBC and Sky Sports had coverage of the FA Cup"
+    },
+    {
+      "id": 4,
+      "context": "Throughout its history, the city has been a major port of entry for immigrants into the United States; more than 12 million European immigrants were received at Ellis Island between 1892 and 1924. The term \"melting pot\" was first coined to describe densely populated immigrant neighborhoods on the Lower East Side. By 1900, Germans constituted the largest immigrant group, followed by the Irish, Jews, and Italians. In 1940, whites represented 92% of the city's population.",
+      "question": "What percentage of the population was Caucasian in 1940?",
+      "true_answer": "92%"
+    },
+    {
+      "id": 5,
+      "context": "The trial in Manhattan of John Peter Zenger in 1735 helped to establish the freedom of the press in North America. In 1754, Columbia University was founded under charter by King George II as King's College in Lower Manhattan. The Stamp Act Congress met in New York in October 1765 as the Sons of Liberty organized in the city, skirmishing over the next ten years with British troops stationed there.",
+      "question": "In what year was Columbia University chartered?",
+      "true_answer": "1754"
+    },
+    {
+      "id": 6,
+      "context": "The owner, tenant or manager (licensee) of a pub is properly known as the \"pub landlord\". The term publican (in historical Roman usage a public contractor or tax farmer) has come into use since Victorian times to designate the pub landlord. Known as \"locals\" to regulars, pubs are typically chosen for their proximity to home or work, the availability of a particular beer, as a place to smoke (or avoid it), hosting a darts team, having a pool or snooker table, or appealing to friends.",
+      "question": "What is the owner, tenant or manager of a pub known as?",
+      "true_answer": "pub landlord"
+    },
+    {
+      "id": 7,
+      "context": "In May 2013, the club launched a new crest to improve the reproducibility of the design in print and broadcast media, particularly on a small scale. Critics[who?] suggested that it was external pressure from sports manufacturers Nike, Inc. that evoked the redesign as the number of colours has been reduced and the radial effect have been removed, making the kit more cost efficient to reproduce.[citation needed] The redesign was poorly received by supporters, with a poll on an Everton fan site registering a 91% negative response to the crest. A protest petition reached over 22,000 signatures before the club offered an apology and announced a new crest would be created for the 2014–15 season with an emphasis on fan consultation. Shortly afterwards, the Head of Marketing left the club.",
+      "question": "How many people signed a petition in protest of Everton FC's crest redesign in 2013?",
+      "true_answer": "over 22,000"
+    },
+    {
+      "id": 8,
+      "context": "In August 2007 Virgil Griffith, a Caltech computation and neural-systems graduate student, created a searchable database that linked changes made by anonymous Wikipedia editors to companies and organizations from which the changes were made. The database cross-referenced logs of Wikipedia edits with publicly available records pertaining to the internet IP addresses edits were made from. Griffith was motivated by the edits from the United States Congress, and wanted to see if others were similarly promoting themselves. The tool was designed to detect conflict of interest edits. Among his findings were that FBI computers were used to edit the FBI article in Wikipedia. Although the edits correlated with known FBI IP addresses, there was no proof that the changes actually came from a member or employee of the FBI, only that someone who had access to their network had edited the FBI article in Wikipedia. Wikipedia spokespersons received Griffith's \"WikiScanner\" positively, noting that it helped prevent conflicts of interest from influencing articles as well as increasing transparency and mitigating attempts to remove or distort relevant facts.",
+      "question": "What did Griffith's tool help increase?",
+      "true_answer": "transparency"
+    },
+    {
+      "id": 9,
+      "context": "By the end of the 12th century, samurai became almost entirely synonymous with bushi, and the word was closely associated with the middle and upper echelons of the warrior class. The samurai were usually associated with a clan and their lord, were trained as officers in military tactics and grand strategy, and they followed a set of rules that later came to be known as the bushidō. While the samurai numbered less than 10% of then Japan's population, their teachings can still be found today in both everyday life and in modern Japanese martial arts.",
+      "question": "Where do samurais' teachings live on?",
+      "true_answer": "everyday life and in modern Japanese martial arts"
+    }
+  ]
+}
